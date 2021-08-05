@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://voice-mod.herokuapp.com/host-https-mobapks.com/post-sitemap.xml
+Sitemap: https://voice-mod.herokuapp.com/sitemap.xml
